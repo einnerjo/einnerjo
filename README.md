@@ -3,6 +3,8 @@
 
 - 🌱 Actualmente estoy reforzando mis conocimientos en **HTML, CSS, JavaScript**
 
+- 📫 ¿Cómo me puedes contactar? **einnerjo@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/einner-villalobos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="einner-villalobos" height="30" width="40" /></a>
