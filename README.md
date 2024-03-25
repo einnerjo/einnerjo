@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Einner</h1>
 <h3 align="center">Soy un diseñador digital</h3>
 
-- 🌱 Actualmente estoy reforzando mis conocimientos en **HTML, CSS, JavaScript**
+- 🌱 Actualmente estoy reforzando mis conocimientos en **HTML, CSS y JavaScript**
 
 - 📫 ¿Cómo me puedes contactar? **einnerjo@gmail.com**
 
